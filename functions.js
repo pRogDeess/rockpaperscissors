@@ -92,3 +92,4 @@ btnReset.addEventListener('click', () => {
 btnRock.addEventListener('click', () => playRound('rock'));
 btnPaper.addEventListener('click', () => playRound('paper'));
 btnScissors.addEventListener('click', () => playRound('scissors'));
+
